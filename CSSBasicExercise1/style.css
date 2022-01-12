@@ -1,0 +1,19 @@
+.left, .right{
+    border: 5px black solid;
+    margin: 5px;
+}
+#third>p {
+    visibility: hidden;    
+}
+
+h1{
+   visibility: hidden;
+}
+#second *{
+    visibility: hidden;
+    
+}
+
+#second img {
+    visibility: visible;;
+}
