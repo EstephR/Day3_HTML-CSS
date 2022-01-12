@@ -1,0 +1,8 @@
+@media screen {
+    .mainheader {
+        text-align: center;
+        color: white;
+        background-color: darkgrey;
+        padding: 70px;
+    }
+}
