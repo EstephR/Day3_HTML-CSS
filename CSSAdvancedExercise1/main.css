@@ -1,1 +1,19 @@
-@media screen {}
+@media screen {
+    .mainimage{
+        float: left; 
+        width: 70%;
+      
+    }
+    .sidebar{
+        float: right;
+        width: 30%;
+       
+    }
+    .maintext{
+        width: 100%;
+        margin: 30px;
+        clear: both;
+       
+        
+    }
+}
